@@ -1,5 +1,9 @@
 streamlit
-PyPDF2
-pandas
-scikit-learn
+fpdf
+matplotlib
 numpy
+textstat
+transformers
+scikit-learn
+pillow
+PyPDF2
